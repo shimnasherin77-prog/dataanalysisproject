@@ -1,5 +1,10 @@
 # Student Marks Analysis
 
+## 📊 Dataset
+
+**Source:** [Student Marks Dataset - Kaggle](https://www.kaggle.com/)  
+(Replace this link with the actual Kaggle URL of your dataset)
+
 ## Description
 This project analyzes student exam data and provides visual insights using Python.  
 It uses **Seaborn** and **Matplotlib** to generate plots such as barplots, histograms, and heatmaps to compare student scores across different subjects and locations.
