@@ -2,8 +2,7 @@
 
 ## 📊 Dataset
 
-**Source:** [Student Marks Dataset - Kaggle](https://www.kaggle.com/)  
-(Replace this link with the actual Kaggle URL of your dataset)
+**Source:** Student Marks Dataset - Kaggle  
 
 ## Description
 This project analyzes student exam data and provides visual insights using Python.  
